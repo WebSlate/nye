@@ -357,7 +357,7 @@ pre {
 
 /* Pasha styles – Brand-overrides, can split these out */
 :root {
-  --accent-color: #ed5f74;
+  --accent-color: #008080;
   --headline-color: var(--accent-color);
   --logo-image: url("https://storage.googleapis.com/stripe-sample-images/logo-pasha.svg");
 }
@@ -480,7 +480,6 @@ pre {
   padding: 32px 28px;
   display: flex;
   flex-direction: column;
-  max-width: 400px;
   min-width: 250px;
 }
 
